@@ -2,7 +2,7 @@
 /*
 This file is part of Conversions Child.
 
-All functions of this file will be loaded before the parent theme functions.
+All functions in this file will be loaded before the parent theme functions.
 Learn more at https://codex.wordpress.org/Child_Themes.
 */
 

@@ -4,7 +4,7 @@ Tags: block-styles, blog, custom-colors, custom-logo, custom-menu, e-commerce, e
 Requires at least: 4.7
 Tested up to: WordPress 5.4.2
 Requires PHP: 5.6.20
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,3 +24,6 @@ Full documentation: https://conversionswp.com/docs/documentation/
 = 1.1 =
 * Update: screenshot.
 * Fix: shortcode namespace paths.
+
+= 1.2 =
+* Update: remove shortcodes. Moved to Conversions Extensions plugin.
